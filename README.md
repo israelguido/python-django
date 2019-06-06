@@ -1,4 +1,4 @@
-# Python 3.7 and Django 2
+# Python 3.8 and Django 2
 
 How to install Django 2.2.2
 
