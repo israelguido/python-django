@@ -11,9 +11,9 @@ git clone https://github.com/israelguido/python-django.git <yourappname>
 ## Usage
 
 ```bash
-cd ~/yourappname
-docker-compose run app sh -c "django-admin.py startproject app ."
-docker-compose up -d
+$ cd ~/yourappname
+$ docker-compose run app sh -c "django-admin.py startproject app ."
+$ docker-compose up -d
 ```
 
 ## Explane commands
